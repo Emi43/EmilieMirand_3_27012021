@@ -1,0 +1,23 @@
+{
+  "name": "projet3-ohmyfood",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "sass": "^1.32.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "sass": "sass --watch ./sass/main.scss:./public/css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Emi43/EmilieMirand_3_27012021.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Emi43/EmilieMirand_3_27012021/issues"
+  },
+  "homepage": "https://github.com/Emi43/EmilieMirand_3_27012021#readme",
+  "description": ""
+}
