@@ -7,7 +7,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "sass": "sass --watch sass/main.scss:css/style.css"
+    "sass": "sass --watch ./sass/main.scss:./css/style.css"
   },
   "repository": {
     "type": "git",
