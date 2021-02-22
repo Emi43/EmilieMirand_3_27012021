@@ -2,7 +2,6 @@
 {
 /*définition police Roboto*/
     font-family: 'Roboto';
-    src: url(".ttf") format('truetype');
     src: url('../fonts/roboto-regular-webfont.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;

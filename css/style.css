@@ -2,21 +2,21 @@
 @font-face {
   /*définition police Roboto*/
   font-family: "Roboto";
-  src: url("/fonts/roboto-regular-webfont.ttf") format("truetype");
+  src: url("../fonts/roboto-regular-webfont.ttf") format("truetype");
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   /*définition police Roboto-Thin*/
   font-family: "Roboto-Thin";
-  src: url("/fonts/roboto-thin-webfont.ttf") format("truetype");
+  src: url("../fonts/roboto-thin-webfont.ttf") format("truetype");
   font-weight: 600;
   font-style: normal;
 }
 @font-face {
   /*définition police Shrikhand*/
   font-family: "shrikhand";
-  src: url("/fonts/shrikhand-regular-webfont.ttf") format("truetype");
+  src: url("../fonts/shrikhand-regular-webfont.ttf") format("truetype");
   font-weight: normal;
   font-style: normal;
 }
